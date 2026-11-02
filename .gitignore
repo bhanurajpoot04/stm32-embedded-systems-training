@@ -1,0 +1,13 @@
+# STM32CubeIDE build outputs and local files
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.list
+*.su
+*.cyclo
+*.launch
+.settings/
+.metadata/
